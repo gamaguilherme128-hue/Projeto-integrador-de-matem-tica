@@ -2,13 +2,14 @@ Como salve:
 
 1. Entre na pasta do projeto
 Se ainda não estiver nela:
-cd projeto-matematica
+cd Projeto-integrador-de-matem-tica
 
 2. Adicione os arquivos ao Git
 git add .
 
 
 Esse comando prepara todos os arquivos modificados para serem salvos.
+
 3. Salve as alterações (commit)
 git commit -m "Atualização do site Matemática para Inclusão"
 
